@@ -1,0 +1,33 @@
+.site-footer {
+  margin-top: 60px;
+  padding: 24px 16px;
+  background: #f9fafb;
+  border-top: 1px solid #e5e7eb;
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.footer-content p {
+  margin: 0;
+  font-size: 0.95rem;
+  color: #444;
+}
+
+.footer-content a {
+  margin-left: 4px;
+  font-weight: 600;
+  color: #4f46e5;
+  text-decoration: none;
+}
+
+.footer-content a:hover {
+  text-decoration: underline;
+}
+
+.heart {
+  color: #e11d48;
+}
